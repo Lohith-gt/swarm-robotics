@@ -3,7 +3,7 @@
 A multi-robot swarm system designed for search and rescue operations,
 built around differential drive robots using ESP32 microcontrollers.
 
-![Assembled Robot](assembled_robot.jpg)
+![Assembled Robot](Robot_assembly.jpeg)
 
 ## Project Status
 🔧 Hardware complete — navigation algorithms in development
