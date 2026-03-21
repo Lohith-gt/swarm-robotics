@@ -21,6 +21,9 @@ built around differential drive robots using ESP32 microcontrollers.
 - Power: 18650 Li-ion battery pack with boost converter
 - Chassis: Laser-cut transparent acrylic
 - Assembly: Perfboard with soldered components
+  
+## Design Preview
+![Fusion 360 Design](Fusion_picture.png)
 
 ## Tools & Technologies
 - Fusion 360 — 3D component layout and design
